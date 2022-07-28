@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+h1 {
+    height: 100px;
+}
+.ball {
+    height: 60px;
+    width: 70px;
+    border-radius: 50%;
+}
+#dificulty {
+    height: 30px;
+    width: 145px;
+}
+#reset-game {
+    height: 30px;
+    width: 145px;
+}
+#answer {
+    font-weight: bolder;
+}
